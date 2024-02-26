@@ -47,7 +47,6 @@ Code was run/tested in Ubuntu terminal with gcc version 11.4.0
 ## File Structure
 - `needleman-wunsch.c`: The main C file containing the implementation of the Needleman-Wunsch algorithm.
 - `README.md`: This README file providing information about the program.
-- `important.txt`: This README file providing information about the program.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
